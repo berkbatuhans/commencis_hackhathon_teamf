@@ -1,0 +1,51 @@
+{
+    "Banks": [
+        {
+            "id": 1,
+            "name": "İşbankası",
+            "images" : "https://www.trbanka.com/logo/is-bankasi.png"
+        },
+        {
+            "id": 1,
+            "name": "İşbankası",
+            "images" : "https://www.trbanka.com/logo/is-bankasi.png"
+        }
+    ],
+    "Customers" : [
+        {
+            "id": 1,
+            "name": "Berk Batuhan ŞAKAR",
+            "gender": "male"
+        },
+        {
+            "id": 2,
+            "name": "Berk Açıkel",
+            "gender": "male"
+        },
+        {
+            "id": 3,
+            "name": "Ferdi Özer",
+            "gender": "male"
+        }
+    ],
+    "Carts" : [
+        {
+            "id": 1,
+            "customer_id" : 1,
+            "cart_number" : "344890933792326",
+            "iban_number" : "IBAN NO",
+            "total_balance" : "1500",
+            "currency_type" : "TL",
+            "account activities" : [
+                {
+                    "movement_type": "Harcama",
+                    "date": "02/08/2018",
+                    "hesaba_giren": -12.6,
+                    "hesaptan_cikan": "-",
+                    "bakiye": "53 TL"
+                }
+            ]
+            
+        }
+    ]
+}
