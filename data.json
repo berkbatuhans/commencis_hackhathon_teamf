@@ -3,12 +3,17 @@
         {
             "id": 1,
             "name": "İşbankası",
-            "images" : "https://www.trbanka.com/logo/is-bankasi.png"
+            "images" : "/bank_images/is-bankasi.png"
         },
         {
-            "id": 1,
-            "name": "İşbankası",
-            "images" : "https://www.trbanka.com/logo/is-bankasi.png"
+            "id": 2,
+            "name": "Yapı Kredi",
+            "images" : "/bank_images/yapi-kredi.png"
+        },
+        {
+            "id": 4,
+            "name": "Ziraat Bankası",
+            "images" : "/bank_images/ziraat-bankasi.png"
         }
     ],
     "Customers" : [
